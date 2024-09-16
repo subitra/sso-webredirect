@@ -2,6 +2,10 @@
   "expo": {
     "name": "my-app-v1",
     "slug": "my-app-v1",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.myappv1"
+    },
+    "scheme": "test"
   }
 }
